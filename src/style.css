@@ -1,8 +1,10 @@
 html {
   background-image: url("./background.jpeg");
   font-size: 10px;
-  max-width: 800px;
+  max-width: 100%;
   margin: 0 auto;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 body {
